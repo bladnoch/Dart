@@ -15,4 +15,11 @@ Final_Variables: Final 변수
     - Java: Final static void String NAME="Dounguk"
     - vs
     - Dart: final String name="Dounguk"
+
+Late_Variables: late 변수
+    - final 변수도 초기값을 설정하지 않아도 되게 하는 변수
+    - 나중에 값을 입력이 가능하다
+
+    - late final String name;
+    - name="Daniel";
     
