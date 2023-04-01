@@ -7,7 +7,7 @@ MyDart: dynamic type
 
 Nullable_variables: null safety 변수
 
-    - String변수가 0이 될 가능성이 있을때 String? 클래스로 널이 될 수 있다는고 미리 설정 해 놓고 if문을 사용해 null safety를 한다.
+    - String변수가 0이 될 가능성이 있을때 String? 클래스로 널이 될 수 있다고 미리 설정 해 놓고 if문을 사용해 null safety를 한다.
 
 Final_Variables: Final 변수
 
