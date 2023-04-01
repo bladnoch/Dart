@@ -12,14 +12,21 @@ Final_Variables: Final 변수
     - main 안에서 변수를 만든다.
     - 자료형을 안 정할 수 있다.
 
-    - Java: Final static void String NAME="Dounguk"
-    - vs
-    - Dart: final String name="Dounguk"
+    Java: Final static void String NAME="Dounguk"
+    vs
+    Dart: final String name="Dounguk"
 
 Late_Variables: late 변수
+
     - final 변수도 초기값을 설정하지 않아도 되게 하는 변수
     - 나중에 값을 입력이 가능하다
 
-    - late final String name;
-    - name="Daniel";
+    late final String name;
+    name="Daniel";
+
+Constant_Variables: const 변수
+
+    - 컴파일 해서 값을 어플리케이션에 올려줄 떄 이미 알고 있는 값일 때 사용
+    - 컴파일 시작 될 때 실행된다.
+    - final처럼 값을 바꿀 수 없다.
     
