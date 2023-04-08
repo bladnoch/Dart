@@ -1,6 +1,6 @@
 /*
-    ClassRecap.dart
-    creat cascade notation in void main()
+    Enum.dart
+    creat enum for avoid typing mistake
     4-8-2023
     Dounguk Kim
  */
