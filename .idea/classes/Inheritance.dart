@@ -4,6 +4,15 @@
     4-8-2023
     Dounguk Kim
  */
+
+//player은 Player(team,name)을 상속
+// Player은 보내준 팀, 이름 저장 후 Human으로 이름 보내줌
+// 이름을 받은 Human은 name 저장후 Player로 돌아옴
+// 플레이이어 할것 없음 main으로 돌아옴
+// player.sayHello()로 Player의 sayHello로 감
+// super.sayHello()로 인해 Human의 sayHello() 실행 후 Player로 돌아옴
+// 돌어와서 print()실행후 매인으로 돌아옴
+// main 끝
 class Human{
   final String name;
 
