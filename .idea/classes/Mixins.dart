@@ -1,6 +1,6 @@
 /*
     Mixins.dart
-
+    use mixins to not to creat constructor in class
     4-8-2023
     Dounguk Kim
  */
